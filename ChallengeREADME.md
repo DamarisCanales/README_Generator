@@ -22,7 +22,6 @@
   N/A
 
   
-  
 
   ## Tests
   To run this test please use:
@@ -32,6 +31,6 @@
   
   If you have any questions/issues, please contact:
   
-  GitHub: http://github.com/undefined
+  GitHub: http://github.com/DamarisCanales
   Email: DamarisCanales00@gmail.com
   

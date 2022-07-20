@@ -52,7 +52,6 @@ function generateMarkdown(data) {
   ${data.contributions}
 
   ${renderLicenseSection(data.license)}
-  
 
   ## Tests
   To run this test please use:
@@ -62,7 +61,7 @@ function generateMarkdown(data) {
   
   If you have any questions/issues, please contact:
   
-  GitHub: http://github.com/${data.gitHub}
+  GitHub: http://github.com/${data.github}
   Email: ${data.email}
   
 `;
