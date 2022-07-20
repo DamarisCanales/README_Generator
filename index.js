@@ -1,9 +1,10 @@
-// TODO: Include packages needed for this application
+// PACKAGES RETRIEVED FROM NODE //
 const inquirer = require("inquirer");
 const fs = require('fs')
 const path = require('path')
 const generateMarkdown = require('./utils/generateMarkdown')
-// TODO: Create an array of questions for user input
+
+// USER INPUT QUESTIONS //
 const questions = [
   {
     type: "input",
@@ -77,4 +78,6 @@ function init() {
 
 // Function call to initialize app
 init();
+
+
 
