@@ -23,6 +23,7 @@ const questions = [
     type: "input",
     name: "installation",
     message: "What command should you run to install dependencies?",
+    default: "npm install",
   },
 
   {
@@ -41,6 +42,7 @@ const questions = [
     type: "input",
     name: "testing",
     message: "What command should be entered to run tests?",
+    default: "npm run tests"
   },
 
   {
